@@ -21,7 +21,7 @@ const About = () => {
 
         <p className="text-xl">
         I am now studying at Vocational High School Telkom Banjarbaru majoring in Software Engineering
-        and I am now in 11th grade
+        and I am now in 11th grade.
 
         My goal is to become a Senior Front End Developer in one of the giant companies in Indonesia
         </p>
